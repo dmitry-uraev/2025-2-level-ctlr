@@ -14,6 +14,7 @@ from core_utils.article.article import Article
 from core_utils.config_dto import ConfigDTO
 
 
+
 class Config:
     """
     Class for unpacking and validating configurations.
